@@ -1,0 +1,2 @@
+[H1,H1_prime,err1] = Rectification('set1/pt_2D_1.txt','set1/pt_2D_2.txt','set1/image1.jpg','set1/image2.jpg')
+[H2,H2_prime,err2] = Rectification('set2/pt_2D_1.txt','set2/pt_2D_2.txt','set2/image1.jpg','set2/image2.jpg')
